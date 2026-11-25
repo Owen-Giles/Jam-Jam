@@ -44,7 +44,7 @@ Credits
       project. The lines of code were written by me, AI only helped with 
       concepts and learning functions in raylib.
 
-===============================================================================
+---------------------------------------------------------------------------------
 License:
    No license, but if you want to use the code, change it at least 30% before 
       you call it your own please.
